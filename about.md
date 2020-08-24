@@ -8,5 +8,7 @@ dave moser
 
 #### twitter
 
-[twitter](@davemoser_tw)
+[twitter](https://twitter.com/@davemoser_tw)
 
+
+<a class="twitter-timeline" href="https://twitter.com/davemoser_tw?ref_src=twsrc%5Etfw">Tweets by davemoser_tw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
