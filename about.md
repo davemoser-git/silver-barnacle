@@ -8,7 +8,9 @@ dave moser
 
 #### twitter
 
-[twitter](https://twitter.com/@davemoser_tw)
+[davemoser](https://twitter.com/@davemoser_tw)
+
+#### gpg-key
 
 
-<a class="twitter-timeline" href="https://twitter.com/davemoser_tw?ref_src=twsrc%5Etfw">Tweets by davemoser_tw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+[public key](assets/key.txt)
